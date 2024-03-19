@@ -5,7 +5,7 @@
 package mat32_test
 
 import (
-	mat "github.com/pa-m/mat32"
+	mat "github.com/arjunsk/mat32"
 )
 
 // FAO is a dataset extracted from Food and Agriculture Organization of the

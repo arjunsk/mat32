@@ -1,4 +1,4 @@
-module github.com/pa-m/mat32
+module github.com/arjunsk/mat32
 
 go 1.18
 

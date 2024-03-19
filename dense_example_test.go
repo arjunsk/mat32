@@ -7,7 +7,7 @@ package mat32_test
 import (
 	"fmt"
 
-	mat "github.com/pa-m/mat32"
+	mat "github.com/arjunsk/mat32"
 )
 
 func ExampleDense_Add() {

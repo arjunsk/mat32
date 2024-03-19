@@ -5,12 +5,14 @@
 package mat32
 
 import (
-	"github.com/pa-m/mat32/internal/asm/f32"
+	"github.com/arjunsk/mat32/internal/asm/f32"
 	"gonum.org/v1/gonum/blas/blas32"
 )
 
 // Inner computes the generalized inner product
-//   x^T A y
+//
+//	x^T A y
+//
 // between column vectors x and y with matrix A. This is only a true inner product if
 // A is symmetric positive definite, though the operation works for any matrix A.
 //

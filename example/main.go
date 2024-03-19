@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/pa-m/mat32"
+	"github.com/arjunsk/mat32"
 	"gonum.org/v1/gonum/mat"
 	"math"
 	"reflect"

@@ -5,7 +5,7 @@
 package mat32
 
 import (
-	"github.com/pa-m/mat32/internal/asm/f32"
+	"github.com/arjunsk/mat32/internal/asm/f32"
 	"gonum.org/v1/gonum/blas"
 	"gonum.org/v1/gonum/blas/blas32"
 )
